@@ -1,2 +1,1 @@
 print("nkgyu")
-print("hcnmn")
