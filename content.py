@@ -1,2 +1,2 @@
 print("nkgyu")
-print("ohohr")
+print("hcnmn")
