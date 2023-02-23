@@ -1,2 +1,2 @@
 print("nyvyy")
-print("odutr")
+print("trsvd")
