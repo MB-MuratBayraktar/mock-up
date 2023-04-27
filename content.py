@@ -1,2 +1,2 @@
 print("nyvyy")
-print("ijnpr")
+print("cmwig")
