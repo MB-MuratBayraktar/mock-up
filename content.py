@@ -1,3 +1,3 @@
 print("clejo")
 print("iecsi")
-print("stqto")
+print("ulyql")
