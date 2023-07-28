@@ -1,2 +1,1 @@
 print("nyvyy")
-print("smocv")
