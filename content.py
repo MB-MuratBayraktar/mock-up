@@ -1,1 +1,1 @@
-print("nyvyy")
+print("ncpnw")
